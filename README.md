@@ -1,11 +1,21 @@
-### Hi, I'm Shreyansh 👋
+# Hey, I'm Shreyansh 👋
 
-🎨 Graphic Designer & Digital Artist  
-💻 Learning Python and exploring AI development  
-🚀 Building creative and tech-driven projects through Elyte Labs
+### Graphic Designer | Digital Artist | Python Learner | Future AI Builder
 
-Currently focused on:
-- Creative design
-- Digital art
-- Coding & automation
-- Future AI systems
+I enjoy combining creativity with technology.
+
+## Current Journey
+🌱 Learning Python  
+🎨 Exploring digital creativity  
+🤖 Studying AI systems  
+🚀 Building Elyte Labs  
+
+## Skills
+- Graphic Design
+- Digital Art
+- Python (Beginner)
+- Video Editing
+- Creative Branding
+
+## Goals
+Build meaningful projects that combine design, automation, and AI.
