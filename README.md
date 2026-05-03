@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @shreyansh0singh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 📫 How to reach me-insta ID  s_a_5.thesinghs23_
-- 😄 Pronouns: He
-<!---
-shreyansh0singh/shreyansh0singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Shreyansh 👋
+
+🎨 Graphic Designer & Digital Artist  
+💻 Learning Python and exploring AI development  
+🚀 Building creative and tech-driven projects through Elyte Labs
+
+Currently focused on:
+- Creative design
+- Digital art
+- Coding & automation
+- Future AI systems
